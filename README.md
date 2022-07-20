@@ -1,1 +1,1 @@
-# plataformaead
+# Simulação de Plataforma ead.
